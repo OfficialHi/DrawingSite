@@ -28,8 +28,6 @@ Of course! Here's the updated "Installation & Usage" section for your README.md:
 
 ---
 
-You can replace the previous "Installation & Usage" section in your README with this updated one for a more user-friendly experience.
-
 ## Contributing:
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
