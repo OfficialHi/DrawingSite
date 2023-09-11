@@ -1,6 +1,5 @@
 ### README.md:
 
-```markdown
 # Web Drawing Tool 🎨
 
 A user-friendly, web-based drawing tool built using HTML, CSS, and JavaScript. Whether you want to quickly doodle something or make a precise drawing, this tool has got you covered!
@@ -38,6 +37,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## License:
 
 [MIT](https://choosealicense.com/licenses/mit/)
-```
+
 
 ---
